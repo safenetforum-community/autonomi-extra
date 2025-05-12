@@ -1,0 +1,13 @@
+reviewers:
+  defaults:
+    - loziniak
+    - Champii
+    - rrauch
+    - happybeing
+    - oetyng
+
+options:
+  number_of_reviewers: 2
+  ignore_draft: true
+  ignored_keywords:
+    - DO NOT REVIEW
